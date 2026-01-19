@@ -7,7 +7,9 @@
 
 /* Style the body */
 body {
-  background-color: #bfa3ec;
+  background: linear-gradient(to bottom, #a8d9e6, #da95e8);
+  /* Followed W3 Schools Gradient Background Tutorial: 
+  https://www.w3schools.com/css/css3_gradients.asp */
   margin: 0;
   min-height: 100vh;
   display: flex;
